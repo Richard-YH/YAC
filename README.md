@@ -12,7 +12,7 @@ Currently support:
 7. CUDIT-R
 8. I-8
 9. Lifetime Cannabis Use
-10. Demographics
+10. Demographics (Only Age, Gender and Ethnicity)
 
 **How to use**
 
