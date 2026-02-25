@@ -16,9 +16,9 @@ Currently support:
 
 **How to use**
 
-1. Download all data files from Gorilla via **Long Form**
+1. Download all data files from Gorilla via **Long Form, CSV**
 2. Rename files. Use names I gave above
-3. Run the script.
+3. Run the script
 4. Choose Lifetime cannabis use as the base file, then you will be asked if you want to merge more files
 5. Select Yes, select all other files, and click Yes
 6. Check OUTPUT **(IMPORTANT: Always check every variable and do some confirmative test to see if the results are correct)**
