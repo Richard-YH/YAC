@@ -1,6 +1,7 @@
 **What is does**
 
-Automatically merge gorilla output with calculation on psychometric scales
+Automatically merge gorilla output with calculation on psychometric scales.
+
 Currently support:
 1. CAPE-15
 2. DASS-21-Depression
